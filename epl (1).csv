@@ -1,0 +1,571 @@
+team,player,matches,goals,assists
+Arsenal,Aaron Ramsdale,6,0,0
+Arsenal,Ben White,37,4,4
+Arsenal,Bukayo Saka,35,16,8
+Arsenal,Cédric Soares,3,0,0
+Arsenal,David Raya,32,0,0
+Arsenal,Declan Rice,38,7,8
+Arsenal,Eddie Nketiah,27,5,2
+Arsenal,Emile Smith-Rowe,13,0,1
+Arsenal,Ethan Nwaneri,1,0,0
+Arsenal,Fábio Vieira,11,1,2
+Arsenal,Gabriel,36,3,0
+Arsenal,Gabriel Jesus,27,4,5
+Arsenal,Gabriel Martinelli,35,6,4
+Arsenal,Jakub Kiwior,20,1,3
+Arsenal,Jorginho,24,0,2
+Arsenal,Jurriën Timber,2,0,0
+Arsenal,Kai Havertz,37,13,7
+Arsenal,Leandro Trossard,34,12,1
+Arsenal,Martin Odegaard,35,8,10
+Arsenal,Mohamed Elneny,3,0,0
+Arsenal,Oleksandr Zinchenko,27,1,2
+Arsenal,Reiss Nelson,15,0,0
+Arsenal,Takehiro Tomiyasu,22,2,1
+Arsenal,Thomas Partey,14,0,0
+Arsenal,William Saliba,38,2,1
+Aston Villa,Bertrand Traoré,2,0,0
+Aston Villa,Boubacar Kamara,20,0,1
+Aston Villa,Calum Chambers,5,0,1
+Aston Villa,Cameron Archer,30,4,1
+Aston Villa,Clement Lenglet,14,0,1
+Aston Villa,Diego Carlos,27,0,0
+Aston Villa,Douglas Luiz,35,9,5
+Aston Villa,Emiliano Martinez,34,0,0
+Aston Villa,Ezri Konsa Ngoyo,35,1,0
+Aston Villa,Finley Munroe,1,0,0
+Aston Villa,Jacob Ramsey,16,1,1
+Aston Villa,Jaden Philogene-Bidace,1,0,0
+Aston Villa,Jhon Durán,23,5,0
+Aston Villa,John McGinn,35,6,4
+Aston Villa,Kaine Hayden,3,0,0
+Aston Villa,Leander Dendoncker,8,1,0
+Aston Villa,Leon Bailey,35,10,9
+Aston Villa,Lucas Digne,33,1,3
+Aston Villa,Matthew Cash,29,2,2
+Aston Villa,Morgan Rogers,11,3,1
+Aston Villa,Moussa Diaby,38,6,8
+Aston Villa,Nicolo Zaniolo,25,2,0
+Aston Villa,Ollie Watkins,37,19,13
+Aston Villa,Omari Kellyman,2,0,0
+Aston Villa,Pau Torres,29,2,0
+Aston Villa,Philippe Coutinho,2,0,0
+Aston Villa,Robin Olsen,5,0,0
+Aston Villa,Tim Iroegbunam,9,0,0
+Aston Villa,Tyrone Mings,1,0,0
+Aston Villa,Youri Tielemans,32,2,6
+Aston Villa,Álex Moreno,21,2,0
+Bournemouth,Adam Smith,28,0,2
+Bournemouth,Alex Scott,23,1,1
+Bournemouth,Antoine Semenyo,33,8,2
+Bournemouth,Chris Mepham,10,0,1
+Bournemouth,Dango Ouattara,30,1,2
+Bournemouth,David Brooks,13,1,1
+Bournemouth,Dominic Sadi,1,0,0
+Bournemouth,Dominic Solanke,38,19,3
+Bournemouth,Enes Ünal,16,2,2
+Bournemouth,Hamed Junior Traore,3,0,0
+Bournemouth,Illia Zabarnyi,37,1,0
+Bournemouth,Ionut Radu,2,0,0
+Bournemouth,Jaidon Anthony,3,0,0
+Bournemouth,James Hill,5,0,0
+Bournemouth,Joe Rothwell,11,0,0
+Bournemouth,Justin Kluivert,32,7,1
+Bournemouth,Kieffer Moore,8,1,0
+Bournemouth,Lewis Cook,33,0,3
+Bournemouth,Lloyd Kelly,23,0,1
+Bournemouth,Luis Sinisterra,20,2,2
+Bournemouth,Marcos Senesi,31,4,5
+Bournemouth,Marcus Tavernier,30,3,4
+Bournemouth,Mark Travers,4,0,0
+Bournemouth,Max Aarons,20,0,1
+Bournemouth,Milos Kerkez,28,0,1
+Bournemouth,Neto,32,0,0
+Bournemouth,Philip Billing,29,2,2
+Bournemouth,Romain Faivre,5,0,0
+Bournemouth,Ryan Christie,37,0,5
+Bournemouth,Tyler Adams,3,0,0
+Brentford,Aaron Hickey,9,0,0
+Brentford,Ben Mee,16,2,0
+Brentford,Bryan Mbeumo,25,9,6
+Brentford,Christian Nørgaard,31,2,1
+Brentford,Ethan Pinnock,29,2,0
+Brentford,Frank Onyeka,26,1,2
+Brentford,Ivan Toney,17,4,2
+Brentford,Josh Dasilva,3,0,0
+Brentford,Keane Lewis-Potter,30,3,1
+Brentford,Kevin Schade,11,2,1
+Brentford,Kristoffer Ajer,28,2,1
+Brentford,Mads Roerslev,34,1,2
+Brentford,Mark Flekken,37,0,1
+Brentford,Mathias Jensen,32,3,3
+Brentford,Michael Olakigbe,8,0,0
+Brentford,Mikkel Damsgaard,23,0,2
+Brentford,Myles Peart-Harris,3,0,0
+Brentford,Nathan Collins,32,1,1
+Brentford,Neal Maupay,31,6,3
+Brentford,Rico Henry,5,0,1
+Brentford,Saman Ghoddos,19,1,0
+Brentford,Sergio Reguilón,25,0,4
+Brentford,Shandon Baptiste,10,1,1
+Brentford,Thomas Strakosha,2,0,0
+Brentford,Vitaly Janelt,38,1,3
+Brentford,Yehor Yarmolyuk,27,0,0
+Brentford,Yoane Wissa,34,12,3
+Brentford,Zanka,14,1,0
+Brighton,Adam Lallana,25,0,1
+Brighton,Adam Webster,15,0,0
+Brighton,Anssumane Fati,19,2,0
+Brighton,Bart Verbruggen,21,0,0
+Brighton,Benicio Baker-Boaitey,5,0,0
+Brighton,Billy Gilmour,30,0,1
+Brighton,Carlos Baleba,27,0,0
+Brighton,Danny Welbeck,29,5,1
+Brighton,Estupiñán,19,2,3
+Brighton,Evan Ferguson,27,6,0
+Brighton,Facundo Buonanotte,27,3,1
+Brighton,Igor Julio,24,0,0
+Brighton,Jack Hinshelwood,12,3,0
+Brighton,Jakub Moder,17,0,0
+Brighton,James Milner,15,0,2
+Brighton,Jan Paul van Hecke,28,0,0
+Brighton,Jason Steele,17,0,0
+Brighton,João Pedro,31,9,3
+Brighton,Joël Veltman,27,1,1
+Brighton,Julio Enciso,12,0,2
+Brighton,Kaoru Mitoma,19,3,4
+Brighton,Lewis Dunk,33,3,1
+Brighton,Mahmoud Dahoud,9,0,1
+Brighton,Mark O’Mahony,3,0,0
+Brighton,Odeluga Offiah,4,0,0
+Brighton,Pascal Groß,36,4,10
+Brighton,Simon Adingra,31,6,1
+Brighton,Solly March,7,3,1
+Brighton,Tariq Lamptey,19,0,3
+Brighton,Valentín Barco,6,0,0
+Burnley,Aaron Ramsey,14,0,0
+Burnley,Ameen Al Dakhil,13,1,0
+Burnley,Anass Zaroury,6,0,0
+Burnley,Arijanet Muric,10,0,0
+Burnley,Benson Manuel,8,0,0
+Burnley,Charlie Taylor,28,1,1
+Burnley,Connor Roberts,14,0,1
+Burnley,Dara O'Shea,33,3,4
+Burnley,David Datro Fofana,15,4,1
+Burnley,Han-Noah Massengo,3,0,0
+Burnley,Hannes Delcroix,12,0,0
+Burnley,Hjalmar Ekdal,8,0,0
+Burnley,Jack Cork,4,0,0
+Burnley,Jacob Bruun Larsen,32,6,0
+Burnley,James Trafford,28,0,0
+Burnley,Jay Rodriguez,21,2,1
+Burnley,Johann Berg Gudmundsson,26,1,3
+Burnley,Josh Brownhill,33,4,2
+Burnley,Josh Cullen,25,2,3
+Burnley,Lorenz Assignon,15,1,2
+Burnley,Louis Beyer,15,0,1
+Burnley,Luca Koleosho,15,1,1
+Burnley,Lyle Foster,24,5,3
+Burnley,Maxime Estève,16,0,0
+Burnley,Michael Obafemi,2,0,0
+Burnley,Mike Trésor,16,0,0
+Burnley,Nathan Redmond,12,0,0
+Burnley,Sander Berge,37,1,2
+Burnley,Vitinho,32,0,2
+Burnley,Wilson Odobert,29,3,2
+Burnley,Zeki Amdouni,34,5,1
+Chelsea,Alex Matos,1,0,0
+Chelsea,Alfie Gilchrist,11,1,0
+Chelsea,Armando Broja,21,1,1
+Chelsea,Axel Disasi,31,2,0
+Chelsea,Ben Chilwell,13,0,1
+Chelsea,Benoit Badiashile Mukinayi,18,0,1
+Chelsea,Carney Chukwuemeka,9,1,1
+Chelsea,Cesare Casadei,11,0,0
+Chelsea,Chimuanya Ugochukwu,12,0,0
+Chelsea,Christopher Nkunku,11,3,0
+Chelsea,Cole Palmer,34,22,11
+Chelsea,Conor Gallagher,37,5,7
+Chelsea,Deivid Washington,2,0,0
+Chelsea,Djordje Petrovic,23,0,0
+Chelsea,Enzo Fernández,28,3,2
+Chelsea,Ian Maatsen,12,0,0
+Chelsea,Jimi Tauriainen,1,0,0
+Chelsea,Josh Acheampong,1,0,0
+Chelsea,Levi Colwill,23,1,1
+Chelsea,Malo Gusto,27,0,6
+Chelsea,Marc Cucurella,21,0,2
+Chelsea,Mason Burstow,2,0,0
+Chelsea,Moisés Caicedo,35,1,3
+Chelsea,Mykhailo Mudryk,31,5,2
+Chelsea,Nicolas Jackson,35,14,5
+Chelsea,Noni Madueke,23,5,2
+Chelsea,Raheem Sterling,31,8,4
+Chelsea,Reece James,10,0,2
+Chelsea,Robert Sánchez,16,0,0
+Chelsea,Romeo Lavia,1,0,0
+Chelsea,Thiago Silva,31,3,1
+Chelsea,Trevoh Chalobah,13,1,0
+Crystal Palace,Adam Wharton,16,0,3
+Crystal Palace,Cheick Oumar Doucoure,11,0,0
+Crystal Palace,Chris Richards,26,1,1
+Crystal Palace,Daniel Muñoz,16,0,4
+Crystal Palace,David Ozoh,9,0,0
+Crystal Palace,Dean Henderson,18,0,0
+Crystal Palace,Eberechi Eze,27,11,4
+Crystal Palace,Jairo Riedewald,9,0,0
+Crystal Palace,James Tomkins,4,0,0
+Crystal Palace,Jean-Philippe Mateta,35,16,5
+Crystal Palace,Jefferson Lerma,28,1,1
+Crystal Palace,Jeffrey Schlupp,29,2,2
+Crystal Palace,Jesurun Rak-Sakyi,6,0,0
+Crystal Palace,Joachim Andersen,38,2,3
+Crystal Palace,Joel Ward,26,0,1
+Crystal Palace,Jordan Ayew,35,4,7
+Crystal Palace,Marc Guehi,25,0,1
+Crystal Palace,Matheus França,10,0,1
+Crystal Palace,Michael Olise,19,10,6
+Crystal Palace,Naouirou Ahamada,20,0,0
+Crystal Palace,Nathaniel Clyne,19,0,0
+Crystal Palace,Odsonne Edouard,30,7,0
+Crystal Palace,Remi Matthews,1,0,0
+Crystal Palace,Sam Johnstone,20,0,0
+Crystal Palace,Tyrick Mitchell,37,2,3
+Crystal Palace,Will Hughes,30,0,1
+Everton,Abdoulaye Doucouré,32,7,1
+Everton,Alex Iwobi,32,5,2
+Everton,Amadou Onana,30,2,0
+Everton,André Gomes,12,1,0
+Everton,Arnaut Danjuma Groeneveld,14,1,0
+Everton,Ashley Young,31,0,0
+Everton,Ben Godfrey,15,0,0
+Everton,Beto,30,3,0
+Everton,Dominic Calvert-Lewin,32,7,2
+Everton,Dwight McNeil,35,3,6
+Everton,Idrissa Gueye,25,4,0
+Everton,Jack Harrison,29,3,3
+Everton,James Garner,37,1,2
+Everton,James Tarkowski,38,1,1
+Everton,Jarrad Branthwaite,35,3,0
+Everton,Jordan Pickford,38,0,0
+Everton,Lewis Dobbin,12,1,0
+Everton,Lewis Warrington,1,0,0
+Everton,Michael Keane,9,1,0
+Everton,Nathan Patterson,20,0,2
+Everton,Seamus Coleman,12,0,0
+Everton,Thomas Cannon,1,0,0
+Everton,Tyler Onyango,1,0,0
+Everton,Vitalii Mykolenko,28,2,0
+Everton,Youssef Chermiti,18,0,0
+Fulham,Adama Traoré,17,2,3
+Fulham,Aleksandar Mitrovic,1,0,0
+Fulham,Andreas Pereira,37,3,7
+Fulham,Antonee Robinson,37,0,6
+Fulham,Bernd Leno,38,0,0
+Fulham,Bobby Reid,33,6,2
+Fulham,Calvin Bassey,29,1,0
+Fulham,Carlos Vinicius,13,2,0
+Fulham,Fode Toure,6,0,0
+Fulham,Harrison Reed,27,0,2
+Fulham,Harry Wilson,35,4,6
+Fulham,Issa Diop,18,0,0
+Fulham,João Palhinha,33,4,1
+Fulham,Kenny Tete,14,1,0
+Fulham,Luke Harris,1,0,0
+Fulham,Raúl Jiménez,24,7,0
+Fulham,Rodrigo Muniz,26,9,1
+Fulham,Sasa Lukic,24,1,0
+Fulham,Tim Ream,18,1,0
+Fulham,Timothy Castagne,34,1,3
+Fulham,Tom Cairney,34,1,4
+Fulham,Tosin Adarabioyo,20,2,0
+Fulham,Willian,31,4,2
+Liverpool,Alexis Mac Allister,33,5,5
+Liverpool,Alisson,28,0,0
+Liverpool,Andrew Robertson,23,3,2
+Liverpool,Ben Doak,1,0,0
+Liverpool,Bobby Clark,5,0,0
+Liverpool,Caoimhin Kelleher,10,0,0
+Liverpool,Cody Gakpo,35,8,5
+Liverpool,Conor Bradley,11,1,3
+Liverpool,Curtis Jones,23,1,1
+Liverpool,Darwin Núñez,36,11,8
+Liverpool,Diogo Jota,21,10,3
+Liverpool,Dominik Szoboszlai,33,3,2
+Liverpool,Harvey Elliott,34,3,6
+Liverpool,Ibrahima Konaté,22,0,0
+Liverpool,James McConnell,3,0,0
+Liverpool,Jarell Quansah,17,2,0
+Liverpool,Jayden Danns,2,0,0
+Liverpool,Joel Matip,10,0,0
+Liverpool,Joseph Gomez,32,0,1
+Liverpool,Kaide Gordon,1,0,0
+Liverpool,Konstantinos Tsimikas,13,0,3
+Liverpool,Luis Díaz,37,8,5
+Liverpool,Mohamed Salah,32,18,10
+Liverpool,Owen Beck,1,0,0
+Liverpool,Ryan Gravenberch,26,1,0
+Liverpool,Stefan Bajcetic,1,0,0
+Liverpool,Thiago Alcántara,1,0,0
+Liverpool,Trent Alexander-Arnold,28,3,4
+Liverpool,Virgil van Dijk,36,2,2
+Liverpool,Wataru Endo,29,1,0
+Luton,Albert Sambi Lokonga,17,1,3
+Luton,Alfie Doughty,37,2,8
+Luton,Amari'i Bell,21,0,0
+Luton,Andros Townsend,27,1,3
+Luton,Carlton Morris,38,11,4
+Luton,Cauley Woodrow,24,1,1
+Luton,Chiedozie Ogbene,30,4,1
+Luton,Daiki Hashioka,10,0,0
+Luton,Elijah Adebayo,27,10,0
+Luton,Fred Onyedinma,8,0,0
+Luton,Gabriel Osho,21,2,0
+Luton,Issa Kabore,24,0,2
+Luton,Jacob Brown,19,2,0
+Luton,James Shea,1,0,0
+Luton,Jordan Clark,23,1,1
+Luton,Joseph Johnson,2,0,0
+Luton,Luke Berry,17,2,1
+Luton,Mads Andersen,8,1,0
+Luton,Marvelous Nakamba,13,0,0
+Luton,Pelly Ruddock Mpanzu,27,0,0
+Luton,Reece Burke,22,0,4
+Luton,Ross Barkley,32,5,4
+Luton,Ryan John Giles,11,0,0
+Luton,Tahith Chong,33,4,0
+Luton,Teden Mengi,30,1,0
+Luton,Thomas Kaminski,38,0,0
+Luton,Tom Lockyer,14,1,1
+Luton,Zack Nelson,2,0,0
+Manchester City,Aymeric Laporte,1,0,0
+Manchester City,Bernardo Silva,33,6,9
+Manchester City,Ederson,33,0,0
+Manchester City,Erling Haaland,31,27,5
+Manchester City,Jack Grealish,20,3,1
+Manchester City,James McAtee,31,3,3
+Manchester City,John Stones,16,1,0
+Manchester City,Josko Gvardiol,28,4,1
+Manchester City,Julián Álvarez,36,11,8
+Manchester City,Jéremy Doku,29,3,8
+Manchester City,Kalvin Phillips,12,0,0
+Manchester City,Kevin De Bruyne,18,4,10
+Manchester City,Kyle Walker,32,0,4
+Manchester City,Manuel Akanji,30,2,0
+Manchester City,Mateo Kovacic,30,1,0
+Manchester City,Matheus Nunes,19,0,2
+Manchester City,Nathan Aké,29,2,2
+Manchester City,Oscar Bobb,14,1,1
+Manchester City,Phil Foden,35,19,8
+Manchester City,Rico Lewis,16,2,0
+Manchester City,Rodri,34,8,9
+Manchester City,Rúben Dias,30,0,0
+Manchester City,Sergio Gómez,6,0,1
+Manchester City,Stefan Ortega Moreno,9,0,0
+Manchester United,Aaron Wan-Bissaka,22,0,2
+Manchester United,Alejandro Garnacho,36,7,4
+Manchester United,Amad Diallo Traore,9,1,1
+Manchester United,André Onana,38,0,0
+Manchester United,Anthony Martial,13,1,0
+Manchester United,Antony,29,1,1
+Manchester United,Bruno Fernandes,35,10,8
+Manchester United,Casemiro,25,1,2
+Manchester United,Christian Eriksen,22,1,2
+Manchester United,Daniel Gore,1,0,0
+Manchester United,Diogo Dalot,36,2,3
+Manchester United,Donny van de Beek,1,0,0
+Manchester United,Ethan Wheatley,3,0,0
+Manchester United,Facundo Pellistri,9,0,1
+Manchester United,Hannibal Mejbri,5,1,0
+Manchester United,Harry Maguire,22,2,2
+Manchester United,Jadon Sancho,3,0,0
+Manchester United,Jonny Evans,23,0,1
+Manchester United,Kobbie Mainoo,24,3,1
+Manchester United,Lisandro Martínez,11,0,1
+Manchester United,Luke Shaw,12,0,0
+Manchester United,Marcus Rashford,33,7,2
+Manchester United,Mason Mount,14,1,0
+Manchester United,Omari Forson,4,0,1
+Manchester United,Raphael Varane,22,1,0
+Manchester United,Rasmus Højlund,30,10,2
+Manchester United,Scott McTominay,32,7,1
+Manchester United,Sofyan Amrabat,21,0,0
+Manchester United,Victor Lindelöf,19,1,1
+Manchester United,Willy Kambwala,8,0,0
+Newcastle United,Alex Murphy,2,0,0
+Newcastle United,Alexander Isak,30,21,2
+Newcastle United,Amadou Diallo,1,0,0
+Newcastle United,Anthony Gordon,35,11,10
+Newcastle United,Ben Parkinson,1,0,0
+Newcastle United,Bruno Guimarães,37,7,8
+Newcastle United,Callum Wilson,20,9,1
+Newcastle United,Dan Burn,33,2,2
+Newcastle United,Elliot Anderson,21,0,2
+Newcastle United,Emil Krafth,17,0,0
+Newcastle United,Fabian Schär,36,4,1
+Newcastle United,Harvey Barnes,21,5,3
+Newcastle United,Jacob Murphy,21,3,7
+Newcastle United,Jamaal Lascelles,16,1,0
+Newcastle United,Joe White,4,0,0
+Newcastle United,Joe Willock,9,1,0
+Newcastle United,Joelinton,20,2,1
+Newcastle United,Kieran Trippier,28,1,10
+Newcastle United,Lewis Hall,18,1,0
+Newcastle United,Lewis Miley,17,1,3
+Newcastle United,Loris Karius,1,0,0
+Newcastle United,Martin Dubravka,23,0,0
+Newcastle United,Matt Ritchie,13,1,0
+Newcastle United,Matt Targett,3,0,0
+Newcastle United,Michael Ndiweni,1,0,0
+Newcastle United,Miguel Almirón,33,3,1
+Newcastle United,Nick Pope,15,0,0
+Newcastle United,Paul Dummett,5,0,0
+Newcastle United,Sandro Tonali,8,1,0
+Newcastle United,Sean Longstaff,35,6,2
+Newcastle United,Sven Botman,17,2,2
+Newcastle United,Valentino Livramento,26,1,0
+Nottingham Forest,Andrew Omobamidele,11,0,0
+Nottingham Forest,Andrey Santos,1,0,0
+Nottingham Forest,Anthony Elanga,36,5,9
+Nottingham Forest,Brandon Aguilera,1,0,0
+Nottingham Forest,Brennan Johnson,35,5,10
+Nottingham Forest,Callum Hudson-Odoi,29,8,1
+Nottingham Forest,Cheikhou Kouyaté,12,0,0
+Nottingham Forest,Chris Wood,31,14,1
+Nottingham Forest,Danilo,29,2,2
+Nottingham Forest,Divock Origi,20,0,1
+Nottingham Forest,Felipe,7,0,0
+Nottingham Forest,Giovanni Reyna,9,0,1
+Nottingham Forest,Gonzalo Montiel,14,0,2
+Nottingham Forest,Harry Toffolo,23,1,3
+Nottingham Forest,Ibrahim Sangare,17,0,0
+Nottingham Forest,Joe Worrall,7,0,0
+Nottingham Forest,Matt Turner,17,0,0
+Nottingham Forest,Matz Sels,16,0,0
+Nottingham Forest,Morgan Gibbs-White,37,5,10
+Nottingham Forest,Moussa Niakhate,21,1,0
+Nottingham Forest,Murillo,32,0,2
+Nottingham Forest,Neco Williams,26,0,1
+Nottingham Forest,Nicolás Domínguez,26,2,2
+Nottingham Forest,Nuno Tavares,8,0,0
+Nottingham Forest,Odisseas Vlachodimos,5,0,0
+Nottingham Forest,Ola Aina,22,1,1
+Nottingham Forest,Orel Mangala,20,1,0
+Nottingham Forest,Rodrigo Ribeiro,4,0,0
+Nottingham Forest,Ryan Yates,35,1,1
+Nottingham Forest,Scott McKenna,5,0,0
+Nottingham Forest,Serge Aurier,12,0,2
+Nottingham Forest,Taiwo Awoniyi,20,6,3
+Nottingham Forest,Willy Boly,20,2,1
+Sheffield United,Andre Brooks,20,0,0
+Sheffield United,Anel Ahmedhodzic,31,2,0
+Sheffield United,Anis Ben Slimane,15,0,0
+Sheffield United,Antwoine Hackford,2,0,0
+Sheffield United,Auston Trusty,32,0,0
+Sheffield United,Ben Brereton Díaz,14,6,1
+Sheffield United,Ben Osborn,24,0,2
+Sheffield United,Bénie Traoré,8,0,0
+Sheffield United,Chris Basham,8,0,0
+Sheffield United,Daniel Jebbison,1,0,0
+Sheffield United,George Baldock,13,0,1
+Sheffield United,Gustavo Hamer,36,4,6
+Sheffield United,Ivo Grbic,9,0,0
+Sheffield United,Jack Robinson,34,1,1
+Sheffield United,Jayden Bogle,34,3,0
+Sheffield United,John Egan,6,0,0
+Sheffield United,John Fleck,4,0,0
+Sheffield United,Luke Thomas,12,0,0
+Sheffield United,Mason Holgate,10,0,0
+Sheffield United,Max Lowe,10,0,0
+Sheffield United,Oliver Arblaster,12,0,0
+Sheffield United,Oliver McBurnie,21,6,3
+Sheffield United,Oliver Norwood,27,1,0
+Sheffield United,Rhian Brewster,13,0,0
+Sheffield United,Rhys Norrington-Davies,5,0,0
+Sheffield United,Ryan Oné,1,0,0
+Sheffield United,Sam Curtis,1,0,0
+Sheffield United,Sydie Peck,1,0,0
+Sheffield United,Tom Davies,9,0,0
+Sheffield United,Vinicius Souza,36,1,0
+Sheffield United,Wes Foderingham,30,0,0
+Sheffield United,William Osula,21,0,0
+Sheffield United,Yasser Larouci,11,0,0
+Tottenham,Alejo Véliz,8,1,0
+Tottenham,Ben Davies,17,1,0
+Tottenham,Bryan Gil Salvatierra,11,0,0
+Tottenham,Cristian Romero,33,5,0
+Tottenham,Dane Scarlett,4,0,0
+Tottenham,Davinson Sánchez,1,0,0
+Tottenham,Dejan Kulusevski,36,8,3
+Tottenham,Emerson,22,1,0
+Tottenham,Eric Dier,4,0,0
+Tottenham,Giovani Lo Celso,22,2,2
+Tottenham,Guglielmo Vicario,38,0,0
+Tottenham,Ivan Perisic,5,0,1
+Tottenham,Iyenoma Destiny Udogie,28,2,3
+Tottenham,James Maddison,28,4,9
+Tottenham,Jamie Donley,3,0,0
+Tottenham,Manor Solomon,5,0,2
+Tottenham,Micky van de Ven,27,3,0
+Tottenham,Mikey Moore,2,0,0
+Tottenham,Oliver Skipp,21,0,0
+Tottenham,Pape Sarr,34,3,3
+Tottenham,Pedro Porro,35,3,7
+Tottenham,Pierre-Emile Højbjerg,36,0,0
+Tottenham,Radu Dragusin,9,0,0
+Tottenham,Richarlison,28,11,4
+Tottenham,Rodrigo Bentancur,23,1,1
+Tottenham,Son Heung-Min,35,17,10
+Tottenham,Timo Werner,13,2,3
+Tottenham,Yves Bissouma,28,0,0
+West Ham,Aaron Cresswell,11,0,0
+West Ham,Alphonse Areola,31,0,0
+West Ham,Angelo Ogbonna,11,0,0
+West Ham,Ben Johnson,14,0,0
+West Ham,Danny Ings,20,1,0
+West Ham,Divin Mubama,5,0,0
+West Ham,Edson Álvarez,31,1,1
+West Ham,Emerson,36,1,2
+West Ham,George Earthy,3,1,0
+West Ham,James Ward-Prowse,37,7,7
+West Ham,Jarrod Bowen,34,16,6
+West Ham,Kaelan Casey,1,0,0
+West Ham,Konstantinos Mavropanos,19,1,0
+West Ham,Kurt Zouma,33,3,0
+West Ham,Lucas Paquetá,31,4,6
+West Ham,Lukasz Fabianski,10,0,0
+West Ham,Maxwel Cornet,7,1,0
+West Ham,Michail Antonio,26,6,2
+West Ham,Mohammed Kudus,33,8,6
+West Ham,Naif Aguerd,21,1,0
+West Ham,Pablo Fornals,15,0,0
+West Ham,Said Benrahma,13,0,1
+West Ham,Thilo Kehrer,4,0,0
+West Ham,Tomas Soucek,37,7,2
+West Ham,Vladimir Coufal,36,0,7
+Wolverhampton Wanderers,Boubacar Traore,24,0,0
+Wolverhampton Wanderers,Craig Dawson,25,1,1
+Wolverhampton Wanderers,Daniel Bentley,5,0,0
+Wolverhampton Wanderers,Enso González,1,0,0
+Wolverhampton Wanderers,Fabio Silva,8,0,0
+Wolverhampton Wanderers,Hee-Chan Hwang,29,12,3
+Wolverhampton Wanderers,Hugo Bueno,22,0,0
+Wolverhampton Wanderers,Jean-Ricner Bellegarde,22,2,1
+Wolverhampton Wanderers,Jonny,1,0,0
+Wolverhampton Wanderers,José Sá,35,0,0
+Wolverhampton Wanderers,João Gomes,34,2,1
+Wolverhampton Wanderers,Leon Chiwome,3,0,0
+Wolverhampton Wanderers,Mario Lemina,35,4,1
+Wolverhampton Wanderers,Matheus Cunha,32,12,7
+Wolverhampton Wanderers,Matt Doherty,30,1,0
+Wolverhampton Wanderers,Max Kilman,38,2,0
+Wolverhampton Wanderers,Nathan Fraser,7,0,0
+Wolverhampton Wanderers,Nélson Semedo,36,0,1
+Wolverhampton Wanderers,Pablo Sarabia,30,4,7
+Wolverhampton Wanderers,Pedro Neto,20,2,9
+Wolverhampton Wanderers,Rayan Ait Nouri,33,2,1
+Wolverhampton Wanderers,Santiago Bueno,12,0,0
+Wolverhampton Wanderers,Sasa Kalajdzic,11,2,0
+Wolverhampton Wanderers,Tawanda Chirewa,8,0,0
+Wolverhampton Wanderers,Tommy Doyle,26,0,0
+Wolverhampton Wanderers,Toti,35,1,3
